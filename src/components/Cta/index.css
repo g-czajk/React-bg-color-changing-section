@@ -1,0 +1,33 @@
+.cta {
+    min-height: 480px;
+    border-radius: 8px;
+}
+
+.cta .content {
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cta h2 {
+    margin-bottom: 16px;
+    font-size: 36px;
+}
+
+.cta p {
+    margin-bottom: 32px;
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+.cta button {
+    border: none;
+    border-radius: 4px;
+    padding: 16px;
+    background-color: #fff;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 100%;
+    cursor: pointer;
+}
