@@ -30,7 +30,7 @@ const Pinned: React.FC<Props> = ({ text, description, backgroundFrom, background
                     trigger: sectionEl.current,
                     scrub: true,
                     start: "bottom bottom",
-                    end: "center center",
+                    end: "top top",
                 },
             })
 
@@ -40,7 +40,7 @@ const Pinned: React.FC<Props> = ({ text, description, backgroundFrom, background
                     trigger: sectionEl.current,
                     scrub: true,
                     start: "bottom bottom",
-                    end: "center center",
+                    end: "top top",
                 },
             })
         }
