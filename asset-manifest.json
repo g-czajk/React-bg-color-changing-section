@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-bg-color-changing-section/static/css/main.5fb30879.css",
+    "main.js": "/React-bg-color-changing-section/static/js/main.1fa88ab6.js",
+    "static/js/787.ca1567ff.chunk.js": "/React-bg-color-changing-section/static/js/787.ca1567ff.chunk.js",
+    "index.html": "/React-bg-color-changing-section/index.html",
+    "main.5fb30879.css.map": "/React-bg-color-changing-section/static/css/main.5fb30879.css.map",
+    "main.1fa88ab6.js.map": "/React-bg-color-changing-section/static/js/main.1fa88ab6.js.map",
+    "787.ca1567ff.chunk.js.map": "/React-bg-color-changing-section/static/js/787.ca1567ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb30879.css",
+    "static/js/main.1fa88ab6.js"
+  ]
+}
